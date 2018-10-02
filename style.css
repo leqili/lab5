@@ -17,13 +17,15 @@ table {
 h1 {
   font-family: "lucida grande", lucida, helvetica;
   color :white;
+  font-weight:bold;
   text-align: center;
   font-size: 50px;
 }
 
 h2 {
-  font-family: "lucida grande", lucida, helvetica;
+  font-family: cursive;
   color: white;
+  font-weight:bold;
   text-align: center;
   font-size: 30px;
 }
